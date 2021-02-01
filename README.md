@@ -29,6 +29,5 @@ this example uses the [Seeed Studio library](https://github.com/Seeed-Studio/CAN
 * Sparkfun [CAN-BUS Shield](https://www.sparkfun.com/products/13262) [github](https://github.com/sparkfun/SparkFun_CAN-Bus_Arduino_Library)
 
 # Sources
-* [forum post of the simulator](http://techtinker.co.za/forum/viewtopic.php?f=14&t=10)
 * [car hackers handbook](http://opengarages.org/handbook/2014_car_hackers_handbook_compressed.pdf)
 * [odbII PID's (wikipedia)](https://en.wikipedia.org/wiki/OBD-II_PIDs)
